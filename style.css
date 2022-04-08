@@ -16,6 +16,11 @@ p{
 .carousel-caption p{
     text-align: center;
 }
+.service-img div{
+    border: 1px solid #212121;
+    border-radius: 5px;
+    background-color:beige;
+}
 .service-img h3{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
