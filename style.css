@@ -28,7 +28,7 @@ p{
     text-transform: uppercase;
 }
 .service-header{
-    text-align: center; 
+    text-align: left; 
     padding: 1em; 
     color:aquamarine; 
     background-color: #212121;
@@ -36,7 +36,7 @@ p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .package-header{
-    text-align: center; 
+    text-align: left; 
     padding: 1em; 
     color:aqua; 
     background-color: #212121;
@@ -59,4 +59,8 @@ p{
 .contact-from{
     background-color: aliceblue;
     padding: 1em;
+}
+.dropdown-item:hover{
+    background-color: #212529;
+    color: #EFEFEF;
 }
