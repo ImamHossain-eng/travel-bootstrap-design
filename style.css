@@ -7,6 +7,9 @@ p{
 .navbar-text ul li a{
     text-decoration: none;
 }
+.nav-link{
+    font-size: 1.2em;
+}
 .carousel-item{
     max-height: 70vh;
 }
